@@ -1,0 +1,28 @@
+﻿using System.Data.SqlClient;
+namespace Connection;
+
+public class Program
+{
+    private static SqlConnection connection { get; set; } = default!;
+
+    private static string connectionString = "Data Source=OXE\\WULAN;Initial Catalog=db_hr_sibkm;Integrated Security=True;Connect Timeout=30;Encrypt=False";
+    public static void  Main()
+    {
+        connection = new SqlConnection(connectionString);
+        try
+        {
+            connection.Open();
+            Console.WriteLine("Connection Open!");
+            connection.Close();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("Connection Failed : " + e);
+        }
+        //GetAllCountry();
+        //GetByIdRegion(1002);
+        //InsertRegion("Region 6");
+        //UpdateRegion(1002, "Region di Update 2");
+        //DeleteRegion(1003);
+    }
+}
