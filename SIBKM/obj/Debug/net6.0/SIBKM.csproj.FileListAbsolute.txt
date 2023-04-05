@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\SIBKM.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\SIBKM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\SIBKM.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\SIBKM.AssemblyInfo.cs
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\SIBKM.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SIBKM\SIBKM\bin\Debug\net6.0\SIBKM.exe
+C:\Users\HP\source\repos\SIBKM\SIBKM\bin\Debug\net6.0\SIBKM.deps.json
+C:\Users\HP\source\repos\SIBKM\SIBKM\bin\Debug\net6.0\SIBKM.runtimeconfig.json
+C:\Users\HP\source\repos\SIBKM\SIBKM\bin\Debug\net6.0\SIBKM.dll
+C:\Users\HP\source\repos\SIBKM\SIBKM\bin\Debug\net6.0\SIBKM.pdb
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\SIBKM.dll
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\refint\SIBKM.dll
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\SIBKM.pdb
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\SIBKM.genruntimeconfig.cache
+C:\Users\HP\source\repos\SIBKM\SIBKM\obj\Debug\net6.0\ref\SIBKM.dll
