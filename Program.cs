@@ -24,7 +24,7 @@ namespace Connection
             }
 
             ////=================Region=================
-            //GetAllRegion();
+            GetAllRegion();
             //GetByIdRegion(1);
             //InsertRegion("Region 5");
             //UpdateRegion(1001, "Region di Update 2");
